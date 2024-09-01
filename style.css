@@ -1,7 +1,6 @@
 body
 {
-<<<<<<< HEAD
-    background-color:black;
+    background-color: black;
 }
 
 
@@ -25,43 +24,16 @@ h1
 div a
 {
     text-decoration: none;
-    color: white;
-
-=======
-
-    background-image: url('images/resources/queenstown-late-night.jpg');
-    background-size: 100%;
-
+    color: white
 }
-
-#title
+#buttons_container
 {
-    color:darkblue;
-    font-size: 80px;
-    font-style: italic;
-    text-decoration-line: underline;
-  
-}
-
-
-
-#navigation{
-
-    display: flex;
-  
-    
->>>>>>> 21cf82e208cb4b64594fc394154d10197921dacb
-}
-
-#buttons_container{
-
-<<<<<<< HEAD
+    background-color: black;
     position: relative;
     font-size: 5vh;
     transform: translateX(-50%);
     left:50%;
     width: max-content;
-
 }
 
 #buttons_container a{
@@ -127,91 +99,3 @@ h4
      width:50%;
      height:300px ;
  }
-=======
-    position: absolute;
-    right: 5vh;
-    margin-top: 09Vh;
-
-    transform: translateY(-50%);
-
-    height: max-content;
-   
-
-    font-size: 5vh;
-
-}
-
-#logo{
-
- margin-top: 50px; 
- width: 120px;
- height: 110px
- 
-}
-
-#about
-{
-    position: relative;
-
-    margin-top: 10%;
-    margin-left: -20%;
-   font-size: 5vh;
-   font-style: oblique;
-}
-
-div a 
-{
-    text-decoration: none;
-    color:darkblue;
-}
-
-
-#images{
-
-    width: 50vh;
-    height: 50vh;
-
-}
-p
-  {
-    color: white;
-    font-style: unset;
-    margin-top: 35vh;
-    margin-left: -11vw;
-    font-size: 03vh;
-    }
-#pictuer
-{
-    color:darkblue;
-    font-size: 40px;
-    font-style: initial;
-    
-}
-#gallery 
-{
-    background: none;
-    
-
-}
-#container_image_3{
-
-    position: absolute;
-    left: 0;
-    top: 140%;
-    
-    height: 100%;
-    width: 100%;
-
-}
-#continue
-{   
-    
- position: absolute;
- background-color: black;
- margin-top: 40%;
- font-size: 40px;
- margin-right: 900px;
- width: max-content;
- height: max-content;
-}
->>>>>>> 21cf82e208cb4b64594fc394154d10197921dacb
